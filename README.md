@@ -1,1 +1,1 @@
-# Cópia da página do starbucks
+# Uma página para o Starbucks
